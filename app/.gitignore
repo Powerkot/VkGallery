@@ -1,0 +1,9 @@
+.gradle
+/local.properties
+.DS_Store
+build
+/captures
+*.iml
+/gradle.properties
+app/src/main/java-generated/
+.idea

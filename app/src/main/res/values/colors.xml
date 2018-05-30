@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#37577c</color>
+    <color name="colorPrimary">#5181b8</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="white">#ffffff</color>
+    <color name="vk_color">#5181b8</color>
+
+    <color name="gray_200">#eeeeee</color>
+</resources>

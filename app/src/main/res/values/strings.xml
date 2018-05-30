@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VkGallery</string>
+
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="authentication_error">Ошибка аутентификации</string>
+    <string name="auth_choose_info">Войти с помощью:</string>
+
+    <integer name="com_vk_sdk_AppId">6489299</integer>
+</resources>
